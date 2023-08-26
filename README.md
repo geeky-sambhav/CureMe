@@ -1,4 +1,4 @@
-CureME is a full stack MERN application on doctor's appointment where users can choose check doctor's past records,choose among various doctors,give reviews etc.On the doctor's end, he/she can see the his/her appointments,select the appointments and a lot more.
+Experience seamless healthcare management with our full-stack MERN application tailored for doctor's appointments. Patients and doctors can effortlessly register and log in, streamlining access. Book appointments with a wide range of specialized doctors, while exploring their past records to make informed choices. Leave valuable reviews to enhance the medical community's collaboration. Our user-friendly interface ensures efficient navigation, empowering users to manage appointments and medical history with ease. Welcome to a comprehensive platform that bridges the gap between patients and healthcare providers, enhancing the way we approach medical care.
 
 
 ORKING
